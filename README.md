@@ -1,7 +1,8 @@
 # ADS-B tracker
 
-Sends a notification whenever a plane passes overhead.
+Sends a Pushbullet notification whenever a plane passes overhead.
 
-## Documentation
+![photo](photo.jpg)
+
+## Inspiration
 http://simonaubury.com/the-pi-plane-project-whole-write-up/
-
